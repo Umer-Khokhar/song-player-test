@@ -1,0 +1,10 @@
+{
+    "title": "Hindi Songs",
+    "description": "Listen to some of the best Hindi songs",
+    "img": "cover.jpeg",
+    "songs" : [
+        {"song": "song1.mp3", "title": "Song 1"},
+        {"song": "song2.mp3", "title": "Song 2"},
+        {"song": "song3.mp3", "title": "Song 3"}
+    ]
+}
